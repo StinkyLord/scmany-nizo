@@ -32,24 +32,6 @@
     "enableRenovate": true,
     "extends": ["github>whitesource/merge-confidence:beta"],
   
-  "dependencyDashboard" :true,
-  "packageRules": [
-    {
-      "matchConfidence": ["very high"],
-      "groupName": "very high merge confidence"
-    },
-    {
-      "matchConfidence": ["high"],
-      "groupName": "high merge confidence"
-    },
-    {
-      "matchConfidence": ["low"],
-      "groupName": "low merge confidence"
-    },
-    {
-      "matchConfidence": ["neutral"],
-      "groupName": "neutral merge confidence"
-    }
-  ]
+  "dependencyDashboard" :true
   }
 }
