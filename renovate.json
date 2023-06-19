@@ -9,4 +9,5 @@
       "matchDatasources": ["npm"],
       "groupName": "npm group"
     }
+   ]
 }
