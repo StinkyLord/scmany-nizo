@@ -3,5 +3,10 @@
   "extends": [
     "config:base",
     ":disableRateLimiting"
-  ]
+  ],
+   "packageRules": [
+    {
+      "matchDatasources": ["npm"],
+      "groupName": "npm group"
+    }
 }
