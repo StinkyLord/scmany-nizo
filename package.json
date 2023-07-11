@@ -10,7 +10,6 @@
     "atom-package-dependencies": "1.0.0",
     "jquery": "3.7.0",
     "SomeImaginaryPackage1": "1.2.3",
-    "SomeImaginaryPackage2":"1.2.3",
     "loophole": "1.0.0",
     "six": "0.0.6",
     "underscore-plus": "1.1.1"
