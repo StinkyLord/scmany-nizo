@@ -5,4 +5,5 @@ PyYAML==5.3.1
 django=4.1.1
 six=0.0.6
 numpy=1.18.1
+SomeImaginaryPackagebb==1.1.1
 
