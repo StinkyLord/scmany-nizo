@@ -31,7 +31,14 @@
     },
     "enableRenovate": true,
     "extends": ["github>whitesource/merge-confidence:beta"],
-  
+  "packageRules": [ 
+		{
+			"matchConfidence": [
+				"low"
+			],	
+			"groupName": "lowConfidence"
+		}
+	]
   "dependencyDashboard" :true
   }
 }
