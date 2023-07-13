@@ -30,7 +30,7 @@
       "enabled": true
     },
     "enableRenovate": true,
-    "extends": ["github>whitesource/merge-confidence:beta"],
+    "extends": ["github>whitesource/merge-confidence:beta", github>PhilipAbed/newConfigRepo:config],
   "packageRules": [ 
 		{
 			"matchConfidence": [
