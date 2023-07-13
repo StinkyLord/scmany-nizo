@@ -23,9 +23,7 @@
 			]
 		},
 		{
-			"matchConfidence": [
-				"High"
-			],	
+			"matchConfidence": ["high", "very high"],
 			"groupName": "highConfidence"
 		}
 	]
