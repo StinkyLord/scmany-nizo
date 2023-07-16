@@ -3,7 +3,7 @@
 	"extends": [
 		"config:base",
 		":disableRateLimiting",
-		"github>PhilipAbed/renovate-config:default"
+		"local>PhilipAbed/renovate-config:default"
 	],
 	"packageRules": [ 
 		{
