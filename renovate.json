@@ -2,8 +2,7 @@
 	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
 	"extends": [
 		"config:base",
-		":disableRateLimiting",
-		"local>PhilipAbed/renovate-config:default"
+		":disableRateLimiting"
 	],
 	"packageRules": [ 
 		{
