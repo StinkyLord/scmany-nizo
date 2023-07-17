@@ -10,7 +10,7 @@
 		"scanPullRequests": false,
 		"incrementalScan": true,
 		"baseBranches": [],
-		"snippetSize": 10
+		"snippetSize": 10 
 	},
 	"checkRunSettings": {
 		"vulnerableCheckRunConclusionLevel": "failure",
