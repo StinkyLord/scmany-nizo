@@ -21,10 +21,6 @@
 			"labels": [
 				"security fix"
 			]
-		},
-		{
-			"matchConfidence": ["high", "very high"],
-			"groupName": "highConfidence"
 		}
 	]
 }
