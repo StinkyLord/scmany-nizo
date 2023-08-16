@@ -7,12 +7,12 @@
   "author": "Ayaka Neko <neko@ayaka.moe>",
   "license": "Apache-2.0",
   "dependencies": {
-    "atom-package-dependencies": "1.0.0",
+    "atom-package-dependencies": "1.0.3",
     "jquery": "3.7.0",
     "SomeImaginaryPackage1": "1.2.3",
-    "loophole": "1.0.0",
-    "six": "0.0.6",
-    "underscore-plus": "1.1.1",
-    "resolve":"1.18.0"
+    "loophole": "1.1.0",
+    "six": "0.0.12",
+    "underscore-plus": "1.7.0",
+    "resolve":"1.22.4"
   }
 }
